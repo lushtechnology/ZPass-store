@@ -1,0 +1,12 @@
+{
+  "apps": [
+    "app": {
+      "name": "Payment Demo",
+      "url": "https://github.com/lushtechnology/ZPass-store/apps/demo.apk"
+    },
+    "app": {
+      "name": "Foo App",
+      "url": "https://github.com/lushtechnology/ZPass-store/apps/foo.apk"
+    }
+  ]
+}
